@@ -1,0 +1,9 @@
+*.bak
+*.ckpt
+*.old
+*.pyc
+*.JPG
+*.png
+*.pickle
+.DS_Store
+.ipynb_checkpoints
